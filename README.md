@@ -5,7 +5,7 @@ Simple application to demonstrate running a webapp using Docker Compose
 
   - `git clone` this repository
   - Run `which docker-compose` to ensure you have docker-compose installed
-  - `cd` to the root of the app where `docker-compose.yml` is locatd
+  - `cd` to the root of the app where `docker-compose.yml` is located
   - Run `docker-compose` up
 
 Two containers will run. The first is the website written in HTML and PHP. It
